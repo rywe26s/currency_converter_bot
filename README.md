@@ -1,2 +1,2 @@
 # currency converter bot
-[!converter](converter.gif)
+![converter](converter.gif)
